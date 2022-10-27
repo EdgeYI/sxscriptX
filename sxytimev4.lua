@@ -39,6 +39,3 @@
 	            game.Players.LocalPlayer.Character.Torso["Left Shoulder"].C0 = game.Players.LocalPlayer.Character.Torso["Left Shoulder"].C0 * CFrame.Angles(0,0,math.random(-1,1))
 			    game.Players.LocalPlayer.Character.Torso["Right Shoulder"].C0 = game.Players.LocalPlayer.Character.Torso["Right Shoulder"].C0 * CFrame.Angles(0,0,math.random(-1,1))
 			end
-
-wait(30)
-game.Players.LocalPlayer:Kick("you are such a silly nigga XD")
